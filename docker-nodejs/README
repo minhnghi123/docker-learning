@@ -1,0 +1,4 @@
+TO RUN THIS APP , LET RUN THE FOLLOWING DOCKER COMMANDS :
+----------------------------------------------------------------
++ docker build -t node-docker . 
++docker run -p 8000:8000 node-docker
